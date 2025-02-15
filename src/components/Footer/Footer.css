@@ -1,0 +1,14 @@
+a
+{
+    text-align: center;
+}
+.footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(93,0,143,0.8155637254901961) 56%);
+    color: aliceblue;
+    border-top: 2px solid aliceblue;
+}
